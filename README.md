@@ -1,4 +1,4 @@
-# Egkelados - AI Multipurpose Chatterbot
+# Egkelados - AI Multipurpose Chatterbot (web-based)
 
 ![alt tag](https://raw.githubusercontent.com/Softdonkey/egkelados/master/www/68747470733a2f2f7331312e706f7374696d672e63632f3831707a306e3671622f636f6e766f2e706e67.png)
 
