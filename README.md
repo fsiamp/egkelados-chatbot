@@ -2,10 +2,12 @@
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/egkelados-ai/master/www/68747470733a2f2f7331312e706f7374696d672e63632f3831707a306e3671622f636f6e766f2e706e67.png)
 
+<b>URL</b>: https://egkelados-ai.appspot.com
+
 Welcome to egkelados - an official artificial intelligence chatterbot.
 
 Egkelados is a chatterbot which attempts to imitate a human-based conversation by using AI technology.
 You can type any kind of message and Egkelados will reply to your thoughts.
 
 The application was developed in PHP/HTML and PandoraBots API has been used.<Br>
-It is a desktop application which is compatible with Windows.
+It is a web/desktop application and is compatible with Windows.
